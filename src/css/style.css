@@ -1,0 +1,158 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4955fd;
+  }
+  
+  header {
+    background-color: #4955fd;
+    color: #a5e300;
+    padding: 10px;
+    text-align: center;
+  }
+  .port {
+    border: solid;
+    border-color: #a5e300;
+    padding: 5px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #a5e300;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #a5e300;
+    border-radius: 5px;
+  }
+  
+  .img1 {
+    width: 800px;
+    margin-bottom: 5px;
+    
+  }
+  
+  .titulo1 {
+    color: #a5e300;
+    font-size: 20px;
+  }
+
+  .descricao1 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  .img2 {
+    width: 800px;
+    margin-bottom: 5px;
+  }
+
+  .titulo2 {
+    color: #a5e300;
+    font-size: 20px;
+  }
+
+  .descricao2 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .img3 {
+    width: 800px;
+    margin-bottom: 5px;
+    
+  }
+  
+  .titulo3 {
+    color: #a5e300;
+    font-size: 20px;
+  }
+
+  .descricao3 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .img4 {
+    width: 800px;
+    margin-bottom: 5px;
+    
+  }
+  
+  .titulo4 {
+    color: #a5e300;
+    font-size: 20px;
+  }
+
+  .descricao4 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .img5 {
+    width: 800px;
+    margin-bottom: 5px;
+    
+  }
+  
+  .titulo5 {
+    color: #a5e300;
+    font-size: 20px;
+  }
+
+  .descricao5 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  .me-chamo {
+    margin-bottom: 5px;
+  }
+
+  .sobre {
+    margin-top: 0px;
+  }
+
+  .github {
+    color: #a5e300;
+  }
+
+  .criado {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+
+  .contato {
+    font-size: 15px;
+    margin-top: 0px;
+  }
+
+  footer {
+    background-color: #4955fd;
+    color: #a5e300;
+    padding: 10px;
+    text-align: center;
+  }
+  
